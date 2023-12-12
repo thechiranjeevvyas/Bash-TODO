@@ -20,5 +20,5 @@ chmod +x main.sh
 ./main.sh
 
 ```
-![User Interface](images/working.png)
+![User Interface](working.png)
 
